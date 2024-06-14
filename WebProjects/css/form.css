@@ -1,0 +1,31 @@
+.Name{
+    margin-top: 20px;
+    border: solid 3px;
+    border-radius: 8px;
+    width: 800px;
+    padding: 50px;
+
+}
+input{
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.kek{
+text-align: center;
+margin-top: 50px;
+font-size: 20px;
+}
+button{
+    border-radius: 8px;
+    background-color: aquamarine;
+    font-size: 20px;
+    padding: 8px;
+}

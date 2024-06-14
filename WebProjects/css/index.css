@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    border: solid 3px;
+    width: max-content;
+    padding: 16px;
+    border-radius: 8px;
+}
+li{
+    margin-bottom: 10px;
+    font-size: 20px;
+
+}
+.container {
+    display: flex;
+    flex-direction: row;
+  }
+  .hardskills{
+    border: solid 3px;
+    padding: 10px;
+  }
+.softskills{
+    border: solid 3px;
+    padding: 10px;
+    margin-left: 100px;
+}

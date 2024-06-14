@@ -1,0 +1,37 @@
+table {
+    margin: 0 auto;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#suitphoto {
+    margin: 0 auto;
+}
+.row{
+    text-align: center;
+}
+
+#button {
+    font-size: medium;
+    text-align: center;
+    border-radius: 8px;
+    width: 200px;
+    height: 60px;
+    margin:auto;
+    display:block;
+    border: 0;
+    color: white;
+    background-color: #34113b;
+}
+
+#logophoto {
+    height: 100px;
+}
+#main_row {
+    background-color: #170825;
+    color: whitesmoke;
+    
+}
+tr{
+    border-top: solid 3px;
+}
